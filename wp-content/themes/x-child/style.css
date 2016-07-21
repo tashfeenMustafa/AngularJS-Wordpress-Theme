@@ -1,0 +1,28 @@
+/*
+
+Theme Name: X &ndash; Child Theme
+Theme URI: http://theme.co/x/
+Author: Themeco
+Author URI: http://theme.co/
+Description: Make all of your modifications to X in this child theme.
+Version: 1.0.0
+Template: x
+
+*/
+/*Controlling the width of the layout's body */
+.x-container>.offset {
+	width: 75%;
+}
+
+/*Post excerpt styling */
+.shadab {
+	display: inline-block;
+	padding: 0px 20px;
+	width: 100%;
+	height: auto;
+}
+.shadab h2 {
+  margin-top: 14px !important;
+  font-weight: none;
+  font-size: 240%;
+}
